@@ -2,6 +2,8 @@
 
 ### This is Becods
 
+<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api?username=Becods&show_icons=true&hide_border=true" />
+
 [![](https://img.shields.io/badge/-i@muir.fun-ea4335?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:i@muir.fun) [![](https://img.shields.io/badge/-Becods-252a30?style=flat-square&logo=github&logoColor=white)](https://github.com/Becods/)
 - ✨ Congratulations on finding here!
 - 🚶 Few friends, probably more in the future.
@@ -9,7 +11,7 @@
 
 ---
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Becods&show_icons=true&hide_border=true" />
+<img width="50%" align="right" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=becods&width=800" />
 
 #### 💻 Platform & 🛠Tools
 
