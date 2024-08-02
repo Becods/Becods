@@ -23,16 +23,16 @@
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Editor-Markdown-22b5ab?style=flat-square&logo=markdown&logoColor=ffffff)](https://www.markdownguide.org/)
 
-[![](https://img.shields.io/badge/-Arduino-008184?style=flat-square&logo=arduino&logoColor=ffffff)](https://www.arduino.cc/)
-[![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
+[![](https://img.shields.io/badge/-PlatformIO-f77b00?style=flat-square&logo=platformio&logoColor=ffffff)](https://platformio.org/)
+[![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)](https://html.spec.whatwg.org/)
+[![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)](https://www.w3.org/Style/CSS/)
+[![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=ffffff)](https://www.ecma-international.org/)
 
-[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![](https://img.shields.io/badge/-C++-5b92c8?style=flat-square&logo=Cplusplus&logoColor=ffffff)](https://cplusplus.com/)
+[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=ffffff)](https://git-scm.com/)
+[![](https://img.shields.io/badge/-Python-3f7cad?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
-[![](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![](https://img.shields.io/badge/-Redis-d92b21?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
+[![](https://img.shields.io/badge/-MariaDB-0e6488?style=flat-square&logo=mariadb&logoColor=ffffff)](https://mariadb.com/)
+[![](https://img.shields.io/badge/-Redis-d92b21?style=flat-square&logo=redis&logoColor=ffffff)](https://redis.io/)
 
 
 
